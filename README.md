@@ -1,11 +1,10 @@
 # color-detection
 
-Run the code using Visual Studio Code <br>
-1. Run directly <br/>
-or <br/>
-2.In terminal typye: python color_detection.py
+<b>To run the code using Visual Studio Code</b> <br />
+- Run directly VS-Code <br />
+- In terminal typye: python color_detection.py
 
 <br>
---> To view results
+<b>--> To view results</b>
 <br>
-Double click anywhere to view the color name, it gives RGB values as well as color name
+Double click anywhere on the image to view the color name, it gives RGB values as well as color name
